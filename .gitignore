@@ -1,0 +1,26 @@
+# Sensitive OAuth & API Credentials
+credentials.json
+token.json
+last_update.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Arduino & PlatformIO
+.pio/
+.vscode/
+build/
+*.elf
+*.bin
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
