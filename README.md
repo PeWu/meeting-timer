@@ -114,4 +114,4 @@ and calibration, please see the [FAQ](./FAQ.md).
 
 Watch the physical dial pointer in action:
 
-![Dial Movement Demonstration](./images/dial_demo.mp4)
+https://github.com/user-attachments/assets/62628b0f-6fa1-45ba-abe8-b6107609d335
